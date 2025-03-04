@@ -14,12 +14,13 @@ These three files demonstrate applications of Markov theory:
 > The agent chooses an action at each state, influencing future states.  
 > Used in reinforcement learning and decision-making problems.  
 > **Focus:** Evaluating the effectiveness of different betting strategies.
-
+This Result shows Why you must not do a gamble
+![Image](https://github.com/user-attachments/assets/dee3e926-fe6d-4707-9491-481e78938195)
 ## Markov Decision Process (MDP) V2 -> `Markov_decision_v2 folder`
 > A modified version of MDP V1 that incorporates discounted rewards.  
 > Tracks cumulative rewards over time with a discount factor.  
 > **Focus:** Understanding long-term profitability by applying reward discounting.
-
+![Image](https://github.com/user-attachments/assets/e6790d95-fc4d-46f7-a3c7-fd0815176a5c)
 ---
 
 ## **Code Differences**  
