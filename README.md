@@ -7,6 +7,7 @@ These three files demonstrate applications of Markov theory:
 > Markov Chain is a sequence of states where transitions occur based on fixed probabilities.  
 > No actions or rewards are involved.  
 > **Example:** Weather changes (Sunny → Rainy with 30% probability).  
+![Image](https://github.com/user-attachments/assets/a172f79d-42ad-48af-9078-3bd9aa9b5efc)
 
 ## Markov Decision Process (MDP) V1 -> `Markov_decision_v1 folder `
 > An extension of the Markov Chain that includes actions and rewards.  
