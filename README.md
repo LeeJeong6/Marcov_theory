@@ -23,7 +23,7 @@ These three files demonstrate applications of Markov theory:
 
 ## **Code Differences**  
 
-| Feature                  | `Markov_chain.py`          | `Markov_decision_v1.py`       | `Markov_decision_v2.py`       |
+| Feature                  | `Markov_chain.py`          | `Markov_decision_v1`       | `Markov_decision_v2`       |
 |--------------------------|--------------------------|------------------------------|------------------------------|
 | **State Representation** | Gambler’s current money  | Gambler’s current money     | Gambler’s current money     |
 | **Transition**           | Randomly win/lose 50%    | Chooses a bet size, then wins/loses | Chooses a bet size, then wins/loses |
@@ -34,7 +34,7 @@ These three files demonstrate applications of Markov theory:
 ---
 
 ## **V1: Evaluating the Effectiveness of Different Strategies**  
-In the first version (`Markov_decision_v1.py`), the focus is on analyzing which betting strategy is more effective.  
+In the first version (`Markov_decision_v1`), the focus is on analyzing which betting strategy is more effective.  
 By running multiple simulations, we compare different policies (**random vs. greedy**) to see which one leads to better outcomes.  
 The results highlight how choosing a particular betting approach impacts the **final amount of money** after a certain number of rounds.
 
